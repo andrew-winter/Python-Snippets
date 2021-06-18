@@ -1,2 +1,2 @@
 # Python-Snippets
-Super simple Python to relearn some forgotten syntax
+Extremely basic Python code just for the record
